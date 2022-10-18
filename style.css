@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Megrim&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&family=Poppins:wght@300&display=swap");
 
 * {
   padding: 0;
@@ -8,11 +7,11 @@
 }
 
 :root {
-  --primary-color: #7c3aed;
+  --primary-color: #f87171;
 }
 
 body {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
   text-align: center;
 }
 
@@ -33,7 +32,7 @@ header {
 }
 
 header h1 {
-  font-family: "Megrim", cursive;
+  font-family: "Fredoka One", cursive;
   text-align: initial;
 }
 
