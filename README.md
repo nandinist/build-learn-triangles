@@ -1,7 +1,7 @@
 # build-learn-triangles
 #### neog camp : Mark 12
-A website which helps you to learn about triangles, contains quizzes & calculators.
+A website which helps you to learn about triangles, contains quizzes based on triangle & calculators to find hypotenus and area of the triangle.
 ## Programming Language:
-- html
-- css
+- HTML
+- CSS
 - javascript
